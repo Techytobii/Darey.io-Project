@@ -29,3 +29,10 @@ I then staged, commit and pushed the changes directly to the main branch
   ![morgan-push](./img/morgan-push.png)
   * then i rasied a PR for Morgan's work and merged it to the main branch.
    *![morgan-merge](./img/Morgan-pr&merge.png)
+ >
+ # Jamie's Work: Updating events
+ * I created a branch for jamie and named it "updating-events", then created a file and named it updating-events.html
+![jamie'branch](./img/jamie's-branch.png)
+* I then added random content o the file created 
+  ![content](./img/jamie's-content.png)
+  
