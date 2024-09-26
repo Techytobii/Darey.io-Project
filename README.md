@@ -26,4 +26,6 @@ I then staged, commit and pushed the changes directly to the main branch
 * I added a new file named "book_reviews.html"
  ![morgan's_content](./img/morgan's%20work.png)
 * Theni pushed the add-book-reviews branch to github
-  
+  ![morgan-push](./img/morgan-push.png)
+  * then i rasied a PR for Morgan's work and merged it to the main branch.
+   *![morgan-merge](./img/Morgan-pr&merge.png)
