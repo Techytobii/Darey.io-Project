@@ -16,4 +16,6 @@
 >
 ****************
 
-1. I then staged, commit and pushed the changes directly to the main branch
+I then staged, commit and pushed the changes directly to the main branch
+ ![greenwoodpush](./img/main-push.png)
+>
