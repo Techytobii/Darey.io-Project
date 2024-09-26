@@ -40,3 +40,7 @@ Jamie"s work
 ![jamie-add](./img/jamie-add&commit.png)
 * I pushed Jamie's work to Main branch
 ![jamie's-push](./img/jamie's-push.png)
+>
+  Finally i raised a PR on github for Jamie's work and merged changes
+  ![jamie's-merge](./img/jamie's-pr&merge.png)
+  
