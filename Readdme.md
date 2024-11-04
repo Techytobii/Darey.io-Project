@@ -84,3 +84,41 @@ while true; do
 done
 
 
+# THE ABOVE PROJECT IS DOCUMENTED IN THE IMAGES BELOW
+
+1. ## I started by creating a Readdme.md file to save and document
+![readme](imgmulti\Img\Snipaste_2024-11-04_12-40-24-read.png)
+
+2. ## Then i added and committed changes to my git 
+
+![git-add](imgmulti\Img\git-add-readdme.png)
+
+![git-commit](imgmulti\Img\git-commit-readdme.png)
+
+3. ## Then pushed my code into my git repository
+
+![gitpush](imgmulti\Img\git-push-readdme.png)
+
+4. ## A multiplication.sh script was then created to add my multiplication command 
+
+![multiplication.sh](imgmulti\Img\modfication-sh.png)
+
+5. ## Added my script to my git repository
+
+![multiplication.sh-add](imgmulti\Img\git-add-multiplication.png)
+
+6. ## Committed changes to my git repository
+
+![multiplication.shcommit](imgmulti\Img\git-commit-multiplication.png)
+
+7. ## Then i added my code to my multiplication.sh script using nano
+
+![multiplication-nano](imgmulti\Img\multiplication-nano-script.png)
+
+8. ## Change the modification of the multiplication.sh file 
+
+![chmod+x](imgmulti\Img\modfication-sh.png)
+
+9. ## Then tested my code 
+
+![tested-script](imgmulti\Img\tested-script.png)
